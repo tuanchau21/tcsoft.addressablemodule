@@ -1,0 +1,23 @@
+{
+  "name": "com.tcsoft.addressablemodule",
+  "version": "0.0.1",
+  "displayName": "tcsoft addressablemodule",
+  "description": "addressable wrapper",
+  "unity": "2019.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "tcsoft",
+    "addressable",
+    "addressablemodule"
+  ],
+  "author": {
+    "name": "tuanchau",
+    "email": "tuan.chau.work@gmail.com",
+    "url": ""
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.19.1"
+  }
+}
